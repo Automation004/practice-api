@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Audree.Practice.Api.props" />
+</Project>

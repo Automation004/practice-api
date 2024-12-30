@@ -1,0 +1,6 @@
+@Audree.Practice.Api_HostAddress = http://localhost:5191
+
+GET {{Audree.Practice.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
